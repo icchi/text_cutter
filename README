@@ -1,0 +1,7 @@
+===================
+テキスト抽出ツール
+===================
+
+1.setting.txtを記述
+2.TextCutter.rbを実行
+3.TextCutter.rbと同階層にresult.txtが出力
