@@ -1,0 +1,7 @@
+﻿# startKey '(抽出する範囲の開始キー)'
+# endKey '(抽出する範囲の終了キー)'
+# target '(対象のパス)'
+
+startKey 'AAA'
+endKey 'ZZZ'
+target '.\test.txt'
